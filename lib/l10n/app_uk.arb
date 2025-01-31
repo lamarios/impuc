@@ -1410,5 +1410,9 @@
   "channelSortByPopular": "Популярний",
   "@channelSortByPopular": {
     "description": "Sort channel videos by popularity"
-  }
+  },
+  "forceTvUiExplanation": "Змусити інтерфейс бути телевізійним, може бути корисним для деяких пристроїв, які не мають конфігурації системи Leanback. Потрібен перезапуск програми",
+  "@forceTvUiExplanation": {},
+  "forceTvUi": "Force TV інтерфейс",
+  "@forceTvUi": {}
 }
