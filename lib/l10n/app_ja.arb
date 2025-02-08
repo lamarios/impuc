@@ -1402,5 +1402,9 @@
   "screenControlsExplanation": "全画面で動画を視聴時に、左や右で縦方向にドラッグすると、明るさや音量を調整します",
   "@screenControlsExplanation": {},
   "retry": "再試行",
-  "@retry": {}
+  "@retry": {},
+  "forceTvUiExplanation": "表示を強制的にテレビ用にすることで、リーンバックシステム設定がない一部の端末でも役立ちます。アプリの再起動が必要",
+  "@forceTvUiExplanation": {},
+  "forceTvUi": "強制的にテレビ向けの表示",
+  "@forceTvUi": {}
 }

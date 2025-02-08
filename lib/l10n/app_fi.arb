@@ -371,7 +371,7 @@
   "@sponsorBlockCategoryIntroDescription": {
     "description": "Sponsorblock 'Intro' Category description"
   },
-  "sponsorBlockCategoryOutro": "Lopputekstit / Outro",
+  "sponsorBlockCategoryOutro": "Lopputekstit/Kiitettävää",
   "@sponsorBlockCategoryOutro": {
     "description": "Outro block 'Outro' Category"
   },
