@@ -1410,5 +1410,9 @@
   "screenControlsExplanation": "När du tittar på en video i helskärm, dra vertikalt från vänster eller höger för att justera ljusstyrkan respektive volymen",
   "@screenControlsExplanation": {},
   "retry": "Försök igen",
-  "@retry": {}
+  "@retry": {},
+  "forceTvUi": "Tvinga TV-gränssnitt",
+  "@forceTvUi": {},
+  "forceTvUiExplanation": "Tvinga gränssnittet att vara TV-upplevelsen, kan vara användbart för vissa enheter som inte har leanback-systemkonfiguration. Omstart av appen krävs",
+  "@forceTvUiExplanation": {}
 }
